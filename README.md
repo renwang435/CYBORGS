@@ -6,7 +6,7 @@ This repository contains the source code for our paper:
 ECCV 2022
 Renhao Wang, Hang Zhao, Yang Gao
 
-![](CYBORGS.png)
+![](CYBORGS.png =215x125)
 
 # Requirements
 
