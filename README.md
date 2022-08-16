@@ -3,7 +3,11 @@
 This repository contains the source code for our paper:
 
 [CYBORGS: Contrastively Bootstrapping Object Representations by Grounding in Segmentation](https://arxiv.org/abs/2203.09343)
+
+
 ECCV 2022
+
+
 Renhao Wang, Hang Zhao, Yang Gao
 
 <img src="CYBORGS.png" width="430" height="250" />
@@ -86,10 +90,10 @@ python main_cyborgs.py \
 
 The following downstream evaluation tasks use the [VirTex code base](https://kdexd.xyz/virtex/virtex/usage/downstream.html) as well:
 
-	- [PASCAL VOC 2007 Linear Classification](https://kdexd.xyz/virtex/virtex/usage/downstream.html#pascal-voc-2007-linear-classification)
-    - [PASCAL VOC 2007+2012 Object Detection](https://kdexd.xyz/virtex/virtex/usage/downstream.html#object-detection-on-pascal-voc-2007-12)
-    - [ImageNet Linear Classification](https://kdexd.xyz/virtex/virtex/usage/downstream.html#imagenet-linear-classification)
-    - [COCO Instance Segmentation](https://kdexd.xyz/virtex/virtex/usage/downstream.html#instance-segmentation-and-object-detection-on-coco)
+- [PASCAL VOC 2007 Linear Classification](https://kdexd.xyz/virtex/virtex/usage/downstream.html#pascal-voc-2007-linear-classification)
+- [PASCAL VOC 2007+2012 Object Detection](https://kdexd.xyz/virtex/virtex/usage/downstream.html#object-detection-on-pascal-voc-2007-12)
+- [ImageNet Linear Classification](https://kdexd.xyz/virtex/virtex/usage/downstream.html#imagenet-linear-classification)
+- [COCO Instance Segmentation](https://kdexd.xyz/virtex/virtex/usage/downstream.html#instance-segmentation-and-object-detection-on-coco)
 
 
 # Acknowledgements
