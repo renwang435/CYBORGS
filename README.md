@@ -2,11 +2,9 @@
 
 This repository contains the source code for our paper:
 
-[CYBORGS: Contrastively Bootstrapping Object Representations by Grounding in Segmentation](https://arxiv.org/abs/2203.09343)
-
-ECCV 2022
-
-Renhao Wang, Hang Zhao, Yang Gao
+[CYBORGS: Contrastively Bootstrapping Object Representations by Grounding in Segmentation](https://arxiv.org/abs/2203.09343)  
+ECCV 2022  
+Renhao Wang, Hang Zhao, Yang Gao  
 
 <img src="CYBORGS.png" width="430" height="250" />
 
